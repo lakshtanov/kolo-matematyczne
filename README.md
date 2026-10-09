@@ -28,9 +28,8 @@ The trading game ("Ryneczek") is run from a shared Google Sheets template —
 50 rounds, a facilitator-set apple price, and teams entering buy (+) / sell (−)
 decisions each round:
 
-🔗 **Template:** <https://docs.google.com/spreadsheets/d/1E_Iu1rMFS8NZxKP7Lyvhvq6hFSYDux7zONxmseaUc-Q/edit?usp=sharing>
-
-Make a copy (File → Make a copy) before using it with a class.
+- 🔗 **Google Sheets (shared, live):** <https://docs.google.com/spreadsheets/d/1E_Iu1rMFS8NZxKP7Lyvhvq6hFSYDux7zONxmseaUc-Q/edit?usp=sharing> — make a copy (File → Make a copy) before using it with a class.
+- 📥 **Offline copy in this repo:** [`ryneczek_template.xlsx`](ryneczek_template.xlsx) (tabs: `BASE`, `example game`).
 
 ## Authors
 
